@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1476306581 source:c:\users\krzyœ\desktop\krypto lab1\zad 2 na krypto lab1\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+	<cstdlib>
+
+1476312503 source:d:\studia\kryptografia\krypto lab1\zad 2 na krypto lab1\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+	<cstdlib>
+
